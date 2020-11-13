@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "611578618015",
+    "firebase_url": "https://signin-8e033.firebaseio.com",
+    "project_id": "signin-8e033",
+    "storage_bucket": "signin-8e033.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611578618015:android:920d5f722ec335729182aa",
+        "android_client_info": {
+          "package_name": "com.moibe.signingoogle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611578618015-u8cvao3iiqh2amot0gejc52s4n04bhb7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moibe.signingoogle",
+            "certificate_hash": "3a6676eec709e3d148859aabf2eec9fd9905a83c"
+          }
+        },
+        {
+          "client_id": "611578618015-2pq3g2ms0lb2jlpvoqviqj6ltlv5vkb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJrSSfBg8xPvqVuTXKrIwaqzNLbvx2rAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611578618015-2pq3g2ms0lb2jlpvoqviqj6ltlv5vkb3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
